@@ -932,7 +932,7 @@ http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c&
 #EXTINF:-1 tvg-name="964 V3 DARK HD  ...c20" group-title="amateur" group-title="cine y documentales",964 V3 DARK HD  ...c20
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-name="965 V3 ONETORO FHD  ...312" group-title="amateur" group-title="otros",965 V3 ONETORO FHD  ...312
-http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://127.0.0.1:6878/ace/getstream?id=41d6e34af2470ce93567d6dfb43afa861841fa27 &hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-name="966 V3 TVG EUROPA HD - ...1c1" group-title="amateur" group-title="autonómicos",966 V3 TVG EUROPA HD - ...1c1
 http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-name="967 V3 ANTENA 3 FHD  ...0e9" group-title="amateur" group-title="tdt",967 V3 ANTENA 3 FHD  ...0e9
